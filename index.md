@@ -192,6 +192,22 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+{% comment %}
+CUSTOM REGISTRATION HTML
+{% endcomment %}
+<p id="registration">
+  <strong>Registration</strong>:
+  Please register if you would like to attend.
+</p>
+<ul>
+  <li>
+    <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38794">
+      Two day workshop 29th & 30th January
+    </a>
+  </li>
+</ul>
+
+
 <hr/>
 
 {% comment%}
