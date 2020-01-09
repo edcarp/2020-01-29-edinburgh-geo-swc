@@ -202,7 +202,7 @@ CUSTOM REGISTRATION HTML
 <ul>
   <li>
     <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38794">
-      Two day workshop 29th & 30th January
+      Registration for two day workshop
     </a>
   </li>
 </ul>
