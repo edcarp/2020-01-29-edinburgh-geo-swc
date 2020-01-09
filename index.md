@@ -197,16 +197,10 @@ CUSTOM REGISTRATION HTML
 {% endcomment %}
 <p id="registration">
   <strong>Registration</strong>:
-  Please register if you would like to attend.
+  Please register if you would like to attend. 
+  <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38794">
+    Link to registration page in Events </a>
 </p>
-<ul>
-  <li>
-    <a href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleID=38794">
-      Registration for two day workshop
-    </a>
-  </li>
-</ul>
-
 
 <hr/>
 
