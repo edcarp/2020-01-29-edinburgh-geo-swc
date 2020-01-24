@@ -322,8 +322,12 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to the software described below.
-  In addition, you will need an up-to-date web browser.
+  you will need to either
+  <ul>
+    <li>use the <a href="https://noteable.edina.ac.uk/login">noteable jupyterhub service</a>; or </li>
+    <li>install the software described below.</li>
+  </ul>
+  In both cases, you will need an up-to-date web browser.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
