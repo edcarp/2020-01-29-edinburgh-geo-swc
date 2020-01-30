@@ -39,7 +39,32 @@
 * Perhaps the speed could be a bit slower for beinners thanks
 * Could have been delivered marginally quicker.
 
+## Python 1
 
+### The good
+
+ * well explained & good pace
+ * practical starting points for beginners
+ * detailed explanations with tips
+ * thank you very much
+ * useful course
+ * excellent intro to python
+ * easy to understand
+ * the content is quite satisfying
+ * many useful methods for handling dataframes
+ * THANKS!
+ * useful tools/phrases highlighted and functions
+ * practical
+ * excercises
+
+### The bad
+
+ * to fast, difficult to follow sometimes
+ * nothing
+ * a little bit too much code to process and goes a bit fast
+ * could do with a pause to let people behind catch up sometimes
+ * thw progression was too quick for beginners
+ * it's difficult to follow
 
 # Feedback - 30th Jan
 
