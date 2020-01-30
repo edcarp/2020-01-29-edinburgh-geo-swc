@@ -41,3 +41,25 @@
 
 
 
+# Feedback - 30th Jan
+
+## git
+
+### The good
+ * great session with easy to learn code :-)
+ * I enjoyed it; a great intro to Git/Github
+ * great professional examples; helped to visualize how this all works and how it could improve my work habits
+ * I liked being introduced to github. "potentially useful" tool! Documents are great! Thanks.
+ * good intro to git/good examples
+ * well structured in general and explained, but reconsider having a general introduction showing the github interface
+ * excellent presentation & pace. Please add the desktop version if there is time
+
+### The bad
+ * would like to have spent more time on git; was a lot of info to process but fun
+ * bit fast through the admin/setup part, making it easy to fall behind. Perhaps have a separate step-by-step of setup next to working terminal
+ * nothing negative
+ * creating user account before attending the course
+ * sometimes too quick; check audience follow up may help
+ * I would have started the lesson with a general overview of the github webpage and some general comments on concepts that will be used through out the explanations like 'push', 'commit', etc
+ 
+
