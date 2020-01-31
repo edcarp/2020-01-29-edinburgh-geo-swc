@@ -87,4 +87,16 @@
  * sometimes too quick; check audience follow up may help
  * I would have started the lesson with a general overview of the github webpage and some general comments on concepts that will be used through out the explanations like 'push', 'commit', etc
  
+## Python 2
 
+### The good
+ * good excercises; good timing for each practice
+ * soory I had to run to pickup my kids. I learned a lot. Thank you very much to all.
+ * thank you, very useful course
+ * sufficient coverage to get you started on complex loops/functions
+ * good speed; clear descriptions of a confusing lecture
+
+### The bad
+ * session extended longer than expected; sorry had to leave at 5
+ * more detail on how some builtin functions work. Today the session was a bit long. Maybe stick plotting in Day 1, too.
+ * lots to take in; need more time. these pages are the only part of the SWC webpages that *need* more explanation beyond what is provided
